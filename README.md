@@ -4,7 +4,13 @@ A full-stack, role-based project and task management application built with Reac
 
 ## 🚀 Live Demo
 
-> Deploy to Railway or Vercel and update this URL.
+🔗 **[https://task-flow-two-liard.vercel.app/login](https://task-flow-two-liard.vercel.app/login)**
+
+## 🎥 Video Walkthrough
+
+<video src="https://github.com/piyushkumar0707/TaskFlow/raw/main/piyush_taskflow.mp4" controls width="100%"></video>
+
+> [📥 Download / Watch on GitHub](https://github.com/piyushkumar0707/TaskFlow/blob/main/piyush_taskflow.mp4)
 
 ## 🧪 Test Credentials (after running seed script)
 
